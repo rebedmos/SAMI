@@ -1,0 +1,66 @@
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Projects\SAMI_Placa_de_video\Project Outputs for SAMI_Placa_de_video\Gerber\SAMI.GM13' ----   Thu Mar 05 18:02:39 2020
+
+D48   --> D100
+D50   --> D101
+D52   --> D102
+D84   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Projects\SAMI_Placa_de_video\Project Outputs for SAMI_Placa_de_video\Gerber\SAMI.GM15' ----   Thu Mar 05 18:02:41 2020
+
+D47   --> D104
+D50   --> D105
+D52   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Projects\SAMI_Placa_de_video\Project Outputs for SAMI_Placa_de_video\Gerber\SAMI.GPB' ----   Thu Mar 05 18:02:41 2020
+
+D46   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Projects\SAMI_Placa_de_video\Project Outputs for SAMI_Placa_de_video\Gerber\SAMI.GTO' ----   Thu Mar 05 18:02:42 2020
+
+D47   --> D108
+D48   --> D109
+D49   --> D110
+D50   --> D111
+D51   --> D112
+D52   --> D113
+D53   --> D114
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Projects\SAMI_Placa_de_video\Project Outputs for SAMI_Placa_de_video\Gerber\SAMI.GTS' ----   Thu Mar 05 18:02:42 2020
+
+D54   --> D115
+D55   --> D116
+D56   --> D117
+D57   --> D118
+D58   --> D119
+D59   --> D120
+D60   --> D121
+D61   --> D122
+D62   --> D123
+D63   --> D124
+D64   --> D125
+D65   --> D126
+D66   --> D127
+D67   --> D128
+D68   --> D129
+D69   --> D130
+D70   --> D131
+D71   --> D132
+D72   --> D133
+D73   --> D134
+D74   --> D135
+D75   --> D136
+D76   --> D137
+D77   --> D138
+D78   --> D139
+D79   --> D140
+-----------------------------------------------------------------

@@ -1,0 +1,2 @@
+esp8266_ll_template.c:38:9:ESP8266_LL_USARTInit	16	static
+esp8266_ll_template.c:46:9:ESP8266_LL_USARTSend	24	static

@@ -1,0 +1,42 @@
+Bill of Material for 
+On 06/03/2020 at 17:06:04
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ *                   1825910-6        4    SW1, SW2, SW3, SW4           Switch               
+                     U2-I             3    C7, C10, C13                 CAPACITOR SMD ELETROLITICO ALUMINIO 150UF / 10V / 20 POR CENTO / 6.60MM X 6.60MM 
+ 0R                  R0402            5    R19, R21, R22, R29, R30      RESISTOR SMD 100K / 5% / 0402 
+ 100K                R0402            1    R24                          RESISTOR SMD 100K / 5% / 0402 
+ 100nF               C0402           11    C14, C17, C18, C20, C21, C22 CAPACITOR SMD CERAMICO 100NF / 50V / 10% / 0402 / Y5V 
+                                           C23, C24, C25, C26, C28
+ 10K                 R0402           11    R2, R3, R4, R6, R8, R9, R12  RESISTOR SMD 100K / 5% / 0402 
+                                           R20, R23, R27, R31
+ 10uF                C0805            6    C1, C2, C4, C6, C27, C29     CAPACITOR SMD CERAMICO 10UF / 10 POR CENTO / 10V / 0805 /  X5R 
+ 10uH                WE-PD2_5848/582055    2    L1, L3                       Inductor             
+ 120K                R0402            2    R16, R17                     RESISTOR SMD 100K / 5% / 0402 
+ 150K                R0402            1    R15                          RESISTOR SMD 100K / 5% / 0402 
+ 1K                  R0402            2    R1, R5                       RESISTOR SMD 100K / 5% / 0402 
+ 1K5                 R0402            2    R10, R11                     RESISTOR SMD 100K / 5% / 0402 
+ 1uF                 C0402            1    C19                          CAPACITOR SMD CERAMICO 100NF / 50V / 10% / 0402 / Y5V 
+ 20pF                C0402            3    C5, C8, C11                  CAPACITOR SMD CERAMICO 18PF / 25V / 5 POR CENTO / 0402 / C0G 
+ 22uF                C0805            3    C3, C9, C12                  CAPACITOR SMD CERAMICO 10UF / 10 POR CENTO / 10V / 0805 /  X5R 
+ 27pF                C0402            2    C15, C16                     CAPACITOR SMD CERAMICO 100NF / 50V / 10% / 0402 / Y5V 
+ 2K2                 R0402            2    R32, R33                     RESISTOR SMD 100K / 5% / 0402 
+ 3.3uH               WE-PD2_5848/582055    1    L2                           Inductor             
+ 300K                R0402            2    R13, R18                     RESISTOR SMD 100K / 5% / 0402 
+ 330K                R0402            1    R14                          RESISTOR SMD 100K / 5% / 0402 
+ 33R                 R0402            2    R25, R26                     RESISTOR SMD 100K / 5% / 0402 
+ 470K                R0402            1    R7                           RESISTOR SMD 100K / 5% / 0402 
+ 470R                R0402            1    R28                          RESISTOR SMD 100K / 5% / 0402 
+ BQ24092DGQR         SOP50P490X110-11N    1    U1                           Integrated Circuit   
+ Conector da bateria Conector_bateria    1    CN2                                               
+ Conector da Câmera  105028-1001      1    CN3                          Connector            
+ Conector Micro USB  10033526N3212LF    1    CN1                          Connector            
+ Crystal_32X50_1     XTAL_ECS-120-20-30B-AGL-TR    1    Y1                           CRISTAL SMD 25 MHZ 30 PPM - 5,0X3,2X0,8 
+ ESD                 SODFL1006X40N    2    D3, D4                       Diode 0SM07500       
+ ESP8266-12E/ESP-12E *XCVR_ESP8266-12E/ESP-12E    1    U3                           This WiFi module has a 32-bit MCU micro and clock speeds supporting 80 MHz or 160 MHz. Supports the RTOS and integrated Wi-Fi MAC/BB/RF/PA/LNA, and has an on-board antenna. 
+ FTSH-105-01-F-DV    FTSH-105-01-L-DV-K    1    CN4                          Connector            
+ Led Grn             LED-0603         2    D1, D2                       LED SMD VERDE 0603 IV>70MCD 
+ LTC3569IFEPBF       SOP65P640X110-17N    1    U2                           Integrated Circuit   
+ STM32L475RET6       QFP50P1200X1200X160-64N    1    U4                           Integrated Circuit   
+ VCC1-B1B-25MHz      VCC1B3B25M0000000    1    Y2                           Crystal or Oscillator 

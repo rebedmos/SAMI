@@ -1,0 +1,14 @@
+buffer.c:28:9:BUFFER_Init	16	static
+buffer.c:52:6:BUFFER_Free	8	static
+buffer.c:195:10:BUFFER_GetFree	0	static
+buffer.c:63:10:BUFFER_Write	24	static
+buffer.c:114:10:BUFFER_WriteToTop	16	static
+buffer.c:215:10:BUFFER_GetFull	0	static
+buffer.c:147:10:BUFFER_Read	24	static
+buffer.c:235:10:BUFFER_GetFullFast	0	static
+buffer.c:246:6:BUFFER_Reset	0	static
+buffer.c:254:9:BUFFER_FindElement	16	static
+buffer.c:277:9:BUFFER_Find	40	static
+buffer.c:318:10:BUFFER_WriteString	16	static
+buffer.c:322:10:BUFFER_ReadString	32	static
+buffer.c:357:8:BUFFER_CheckElement	16	static
